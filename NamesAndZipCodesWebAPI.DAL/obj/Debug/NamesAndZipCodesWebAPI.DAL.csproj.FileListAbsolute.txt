@@ -1,0 +1,9 @@
+C:\Development\Exercises\NamesAndZipCodesWebAPI\NamesAndZipCodesWebAPI.DAL\bin\Debug\NamesAndZipCodesWebAPI.DAL.dll
+C:\Development\Exercises\NamesAndZipCodesWebAPI\NamesAndZipCodesWebAPI.DAL\bin\Debug\NamesAndZipCodesWebAPI.DAL.pdb
+C:\Development\Exercises\NamesAndZipCodesWebAPI\NamesAndZipCodesWebAPI.DAL\bin\Debug\NamesAndZipCodesWebAPI.Common.dll
+C:\Development\Exercises\NamesAndZipCodesWebAPI\NamesAndZipCodesWebAPI.DAL\bin\Debug\NamesAndZipCodesWebAPI.Data.dll
+C:\Development\Exercises\NamesAndZipCodesWebAPI\NamesAndZipCodesWebAPI.DAL\bin\Debug\NamesAndZipCodesWebAPI.Common.pdb
+C:\Development\Exercises\NamesAndZipCodesWebAPI\NamesAndZipCodesWebAPI.DAL\bin\Debug\NamesAndZipCodesWebAPI.Data.pdb
+C:\Development\Exercises\NamesAndZipCodesWebAPI\NamesAndZipCodesWebAPI.DAL\obj\Debug\NamesAndZipCodesWebAPI.DAL.csprojResolveAssemblyReference.cache
+C:\Development\Exercises\NamesAndZipCodesWebAPI\NamesAndZipCodesWebAPI.DAL\obj\Debug\NamesAndZipCodesWebAPI.DAL.dll
+C:\Development\Exercises\NamesAndZipCodesWebAPI\NamesAndZipCodesWebAPI.DAL\obj\Debug\NamesAndZipCodesWebAPI.DAL.pdb

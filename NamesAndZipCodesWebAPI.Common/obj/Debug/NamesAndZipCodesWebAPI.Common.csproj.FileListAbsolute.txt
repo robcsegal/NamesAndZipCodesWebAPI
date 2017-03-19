@@ -1,0 +1,5 @@
+C:\Development\Exercises\NamesAndZipCodesWebAPI\NamesAndZipCodesWebAPI.Common\bin\Debug\NamesAndZipCodesWebAPI.Common.dll
+C:\Development\Exercises\NamesAndZipCodesWebAPI\NamesAndZipCodesWebAPI.Common\bin\Debug\NamesAndZipCodesWebAPI.Common.pdb
+C:\Development\Exercises\NamesAndZipCodesWebAPI\NamesAndZipCodesWebAPI.Common\obj\Debug\NamesAndZipCodesWebAPI.Common.csprojResolveAssemblyReference.cache
+C:\Development\Exercises\NamesAndZipCodesWebAPI\NamesAndZipCodesWebAPI.Common\obj\Debug\NamesAndZipCodesWebAPI.Common.dll
+C:\Development\Exercises\NamesAndZipCodesWebAPI\NamesAndZipCodesWebAPI.Common\obj\Debug\NamesAndZipCodesWebAPI.Common.pdb

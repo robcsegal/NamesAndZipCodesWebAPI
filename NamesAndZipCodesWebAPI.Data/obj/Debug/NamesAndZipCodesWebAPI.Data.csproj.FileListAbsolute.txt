@@ -1,0 +1,4 @@
+C:\Development\Exercises\NamesAndZipCodesWebAPI\NamesAndZipCodesWebAPI.Data\bin\Debug\NamesAndZipCodesWebAPI.Data.dll
+C:\Development\Exercises\NamesAndZipCodesWebAPI\NamesAndZipCodesWebAPI.Data\bin\Debug\NamesAndZipCodesWebAPI.Data.pdb
+C:\Development\Exercises\NamesAndZipCodesWebAPI\NamesAndZipCodesWebAPI.Data\obj\Debug\NamesAndZipCodesWebAPI.Data.dll
+C:\Development\Exercises\NamesAndZipCodesWebAPI\NamesAndZipCodesWebAPI.Data\obj\Debug\NamesAndZipCodesWebAPI.Data.pdb
