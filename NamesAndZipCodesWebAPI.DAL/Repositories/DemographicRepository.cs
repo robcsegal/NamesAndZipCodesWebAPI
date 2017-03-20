@@ -41,7 +41,7 @@ namespace NamesAndZipCodesWebAPI.DAL.Repositories
             try
             {
                 return (from demo in m_dcNamesAndZipCodes.Demographics
-                        where FullName.Trim() == "" || (FullName.Trim().ToLower() != "" && demo.FirstName.Trim().ToLower() + " " + demo.LastName.Trim().ToLower() == FullName.ToLower())
+                        where FullName.Trim() == "" || (FullName.Trim().ToLower() != "" && (demo.FirstName.Trim().ToLower() + " " + demo.LastName.Trim().ToLower() == FullName.ToLower() || demo.FirstName.ToLower() == FullName.ToLower() || demo.LastName.ToLower() == FullName.ToLower()))
                         select demo.ZipCode).Distinct().ToList();
             }
             catch(Exception)
